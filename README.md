@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nik</h1>
+<h1 align="center">Hi, I'm Nik</h1>
 
 <h2 align="center">“Software is a great combination between artistry and engineering.” <br> <i>Bill Gates</i></h2>
 

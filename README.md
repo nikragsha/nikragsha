@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Nik</h1>
 
-<!--
-**nikragsha/nikragsha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">“Software is a great combination between artistry and engineering.” <br> <i>Bill Gates</i></h2>
 
-Here are some ideas to get you started:
+<h3 align="center">My name is Nik! I'm from the U.S. and I like to make websites that make everyday life simpler.</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Intrests
+- A.I.
+- 5G
+- Kollywood
+- Aviation
+
+#### Languages Used :man_technologist:	
+| Laguage        | Expirence           |
+| :-------------: |:-------------:|
+| HTML      | Advanced |
+| CSS      | Advanced      |
+| JavaScript | Intermediate       | 
+| Python | Learning       | 
+
+#### Languages Spoken :globe_with_meridians:	
+| Laguage        | Expirence           |
+| :-------------: |:-------------:|
+| English      | Fluent/Native |
+| Malayalam      | Fluent      |
+| Tamil | Advanced       | 
+| Hindi | Learning       | 
